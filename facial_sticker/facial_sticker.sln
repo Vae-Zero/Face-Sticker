@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "facial_sticker", "facial_sticker\facial_sticker.pyproj", "{692EA69F-2259-4B9B-972D-FCC67F18D9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692EA69F-2259-4B9B-972D-FCC67F18D9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692EA69F-2259-4B9B-972D-FCC67F18D9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD806F2C-480E-4589-8547-C9D5786B47A4}
+	EndGlobalSection
+EndGlobal
